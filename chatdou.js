@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Codex 爆改chatgpt/codex
-// @version      1.0.2
+// @name         豆包网页版 爆改chatgpt/codex
+// @version      1.0.3
 // @description  把 doubao.com/chat 的「对话」改名 ChatGPT、「工作」改名 Codex，同时替换 logo / 图标 / 配色 / 字体 / 圆角，模仿 ChatGPT 与 Codex 的界面风格。只改界面，不改你的数据和功能。
 // @author       松鼠老方
 // @homepageURL  https://github.com/LaoFang114514/ChatDou
